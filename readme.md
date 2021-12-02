@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ashish Adhikari][twitter] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ashishkasyap6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAshishkasyap6&screen_name=Ashishkasyap6)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AahhSheesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAahhSheesh&screen_name=AahhSheesh)
 
 ## I'm a Student, Developer and a geek !!
 
