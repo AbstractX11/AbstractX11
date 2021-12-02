@@ -63,6 +63,6 @@
 <!-- </details>  -->
 
 <!-- [website]: https://codeSTACKr.com -->
-[twitter]: https://twitter.com/Ashishkasyap6
+[twitter]: https://twitter.com/AahhSheesh
 [instagram]: https://www.instagram.com/ashish_adhikari33/
 [linkedin]: https://www.linkedin.com/in/abhinav-bhattarai-1632a5200/
